@@ -1,0 +1,68 @@
+h1{
+    text-align: center;
+    margin-top: 10px;
+    color: blue;
+    margin-bottom: 0px;
+}
+
+.dataUser{
+    justify-content: center;
+    max-width: 55rem;
+    width: 90vw;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    position: relative;
+    font-size: 18px;
+    height: auto;
+    padding: 10px;
+    display: inline-block;
+    margin-bottom: 3px;
+}
+
+p{
+    text-align: justify;
+}
+
+h2{
+    color: blue;
+    margin-bottom: 2px;
+}
+
+.contacts{
+    text-align: center;
+    justify-content: center;
+    max-width: 55rem;
+    width: 90vw;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    position: relative;
+    font-size: 18px;
+    height: auto;
+    padding: 10px;
+    display: inline-block;
+}
+
+.card_contact{
+    display: inline-block;
+    align-items: center;
+    max-width: 28rem;
+    width: 90vw;
+    justify-content: space-between;
+    border: none;
+    padding-left: 2rem;
+    padding-right: 2rem;
+    border-radius: 7px;
+    margin-bottom: 1rem;
+    background-color: #eee;
+    height: 5rem;
+    text-align: center;
+}
+
+.linkp{
+    text-align: center;
+    margin-top: 10px;
+    color: blue;
+    margin-bottom: 0px;
+    font-size: 18px;
+    text-decoration: none;
+}
